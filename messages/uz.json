@@ -1,0 +1,401 @@
+{
+  "meta": {
+    "titleDefault": "Europanel — Sendvich panel ishlab chiqarish | Farg‘ona",
+    "titleTemplate": "%s | Europanel",
+    "description": "Europanel — Farg‘onada sendvich panel ishlab chiqarish. EPS va bazalt (mineral vata) panellar: devor, tom, sovuq ombor, tovuqxona va omborxonalar uchun. Butun O‘zbekiston va Markaziy Osiyoga yetkazib berish."
+  },
+  "nav": {
+    "products": "Mahsulotlar",
+    "advantages": "Afzalliklar",
+    "factory": "Zavod",
+    "faq": "FAQ"
+  },
+  "hero": {
+    "lead": "Farg‘onada ishlab chiqarilgan EPS va bazalt sendvich panellar — butun O‘zbekiston va Markaziy Osiyoga yetkazib berish.",
+    "ctaProducts": "Mahsulotlarni ko‘rish"
+  },
+  "products": {
+    "eyebrow": "Mahsulot liniyasi",
+    "title": "Loyihangizga mos panel",
+    "lead": "Devor, tom va Z-Lock — shuningdek sovuq ombor, tovuqxona, omborxona va ishlab chiqarish sexlari uchun yechimlar. Har birida to‘liq texnik datasheet.",
+    "thickness": "Qalinlik",
+    "core": "Yadro",
+    "details": "Batafsil →"
+  },
+  "advantages": {
+    "eyebrow": "Nega Europanel",
+    "title": "Zavoddan to‘g‘ridan-to‘g‘ri — qo‘shimcha qiymat bilan"
+  },
+  "factory": {
+    "eyebrow": "Ishlab chiqarish",
+    "title": "Avtomatik Z-Lock liniya — Farg‘onada",
+    "lead": "EUROPANEL INDUSTRIES MChJ QK — to‘liq avtomatlashtirilgan sendvich panel ishlab chiqarish. Uzunlik buyurtmaga mos, 10 yilgacha rasmiy kafolat.",
+    "points": [
+      {
+        "title": "Ishlab chiqarish quvvati",
+        "text": "Oyiga 60 000 m². 1 ta to‘liq avtomatik Z-Lock liniyasi (yana 2 ta liniya ishga tushirilmoqda)."
+      },
+      {
+        "title": "Jamoa",
+        "text": "50 nafar xodim. Ofis zavod hududida — Farg‘ona, Uchko‘prik."
+      },
+      {
+        "title": "Sifat nazorati",
+        "text": "Har bir bosqichda nazorat. Tayyor mahsulot yakuniy tekshiruvdan o‘tadi va sifat pasporti bilan topshiriladi. ISO va GOST."
+      }
+    ]
+  },
+  "comparison": {
+    "eyebrow": "Yadro turlari",
+    "title": "EPS, Bazalt — PIR va PUF tez orada",
+    "lead": "Loyihangizga mos izolyatsiyani tanlang. Qalinlik: 50–200 mm. Metall: 0.40–0.50 mm.",
+    "headers": {
+      "core": "Yadro",
+      "status": "Holat",
+      "density": "Zichlik",
+      "best": "Qayerga mos"
+    }
+  },
+  "faq": {
+    "eyebrow": "Savollar",
+    "title": "Ko‘p so‘raladi",
+    "lead": "Sendvich panel haqida qisqa va aniq javoblar."
+  },
+  "cta": {
+    "eyebrow": "Aloqa",
+    "title": "Loyihangiz bo‘yicha bog‘laning",
+    "lead": "Telefon yoki WhatsApp orqali yozing — mutaxassis konsultatsiya beradi, kerak bo‘lsa obyektga chiqadi.",
+    "whatsapp": "WhatsApp"
+  },
+  "footer": {
+    "products": "Mahsulotlar",
+    "contact": "Aloqa",
+    "rights": "Barcha huquqlar himoyalangan.",
+    "tagline": "Sendvich panel — Farg‘ona, O‘zbekiston"
+  },
+  "productPage": {
+    "eyebrow": "Mahsulot",
+    "otherProducts": "Boshqa mahsulotlar",
+    "continue": "Davomi"
+  },
+  "datasheet": {
+    "structureEyebrow": "Tuzilishi",
+    "structureTitle": "Uch qatlamli konstruksiya",
+    "advantagesEyebrow": "Afzalliklari",
+    "advantagesTitle": "Nima uchun qulay",
+    "ralEyebrow": "Rang variantlari",
+    "ralTitle": "RAL",
+    "ralNote": "Boshqa ranglar buyurtma asosida tayyorlanadi.",
+    "specsEyebrow": "Texnik xususiyatlar",
+    "specsTitle": "paneli spetsifikatsiyasi",
+    "appsEyebrow": "Qo‘llanilish sohalari",
+    "appsTitle": "Qayerda ishlatiladi",
+    "brandBlurb": "EUROPANEL — zamonaviy texnologiya va yuqori sifat uyg‘unligi",
+    "brandSub": "Sizning ishonchli qurilish hamkoringiz. 10 yilgacha rasmiy kafolat.",
+    "trust": [
+      "Sifat kafolati",
+      "Zamonaviy uskunalar",
+      "Ishonchli hamkor",
+      "Tezkor yetkazib berish"
+    ],
+    "features": [
+      "Yuqori sifat",
+      "Issiqlik izolyatsiyasi",
+      "Ovoz izolyatsiyasi",
+      "Ekologik toza",
+      "O‘rnatish oson",
+      "Uzun muddatli"
+    ],
+    "advList": [
+      "Yaxshi issiqlik izolyatsiyasi",
+      "Yaxshi ovoz izolyatsiyasi",
+      "Yong‘in xavfsizligi yuksak",
+      "Namlikka chidamli",
+      "Yengil va mustahkam",
+      "Tez va oson montaj"
+    ],
+    "layers": {
+      "outerTitle": "Tashqi qatlam",
+      "outerText": "Rangli po‘lat (polyester qoplama)",
+      "coreTitle": "Yadro (to‘ldiruvchi)",
+      "coreText": "Bazalt yoki penoplast — issiqlik va ovoz izolyatsiyasi",
+      "innerTitle": "Ichki qatlam",
+      "innerText": "Rangli po‘lat (polyester qoplama)",
+      "coreLabel": "EPS / Bazalt yadro",
+      "zlockCoreLabel": "Z-Lock yadro"
+    }
+  },
+  "site": {
+    "tagline": "Yevropa standarti endi O‘zbekistonda.",
+    "description": "Europanel — Farg‘onada sendvich panel ishlab chiqarish. EPS va bazalt (mineral vata) panellar: devor, tom, sovuq ombor, tovuqxona va omborxonalar uchun. Butun O‘zbekiston va Markaziy Osiyoga yetkazib berish.",
+    "workHours": "Dushanba – Shanba, 08:00 – 18:00",
+    "addressFull": "Farg‘ona viloyati, Uchko‘prik tumani, Oltinvodiy MFY, Fariylar ko‘chasi, 20-uy",
+    "city": "Uchko‘prik",
+    "region": "Farg‘ona viloyati",
+    "country": "O‘zbekiston",
+    "street": "Oltinvodiy MFY, Fariylar ko‘chasi, 20-uy",
+    "capacity": "Oyiga 60 000 m²",
+    "staff": "50 nafar xodim",
+    "lines": "1 ta to‘liq avtomatik Z-Lock liniyasi (yana 2 ta liniya ishga tushirilmoqda)",
+    "warranty": "10 yilgacha rasmiy kafolat",
+    "deliveryRegions": [
+      "O‘zbekiston",
+      "Qirg‘iziston",
+      "Tojikiston",
+      "Markaziy Osiyo"
+    ]
+  },
+  "advantageItems": [
+    "400 m² va undan ortiq buyurtmalar uchun bepul yetkazib berish",
+    "Bepul professional konsultatsiya",
+    "Mutaxassislarning obyektga chiqib bepul o‘lchov va hisob-kitob qilishi",
+    "Yuqori sifatli mahsulot va sifat pasporti (Quality Passport)",
+    "10 yilgacha rasmiy kafolat",
+    "Buyurtma asosida kerakli uzunlikda ishlab chiqarish",
+    "Zamonaviy avtomatlashtirilgan Z-Lock ishlab chiqarish",
+    "O‘zbekiston bo‘ylab professional montaj xizmati"
+  ],
+  "productItems": {
+    "devor-paneli": {
+      "title": "Devor sendvich paneli",
+      "shortTitle": "Devor paneli",
+      "description": "Tekis / mikro-qovurg‘ali Z-Lock devor panellari. Kenglik: 1000 va 1200 mm. EPS yoki bazalt yadro.",
+      "thickness": "50–200 mm",
+      "width": "1000 / 1200 mm",
+      "core": "EPS / Bazalt",
+      "use": "Devor, fasad, sanoat binolari"
+    },
+    "tom-paneli": {
+      "title": "Tom sendvich paneli",
+      "shortTitle": "Tom paneli",
+      "description": "Yuqori qovurg‘ali tom panellari — ombor, angar va sanoat binolari uchun. Effektive eni: 1000 mm.",
+      "thickness": "50–200 mm",
+      "width": "1000 mm",
+      "core": "EPS / Bazalt",
+      "use": "Tom yopish, qoplama"
+    },
+    "z-lock": {
+      "title": "Z-Lock sendvich panel",
+      "shortTitle": "Z-Lock",
+      "description": "Z-Lock qulf ulanishli panel tizimi — zich montaj, kam sovuq ko‘prik. Avtomatik liniyada ishlab chiqariladi.",
+      "thickness": "50–200 mm",
+      "width": "1000 / 1200 mm",
+      "core": "EPS / Bazalt",
+      "use": "Devor tizimlari, zich ulanish"
+    },
+    "sovuq-ombor": {
+      "title": "Sovuq ombor paneli",
+      "shortTitle": "Sovuq ombor",
+      "description": "Sovuq ombor va muzlatkich kameralari uchun panel yechimlari. PIR va PUF liniyalari yaqin kunlarda ishga tushadi.",
+      "thickness": "100–200 mm",
+      "width": "Buyurtma asosida",
+      "core": "EPS / Bazalt · tez orada PIR / PUF",
+      "use": "Sovuq ombor, muzlatkich, oziq-ovqat"
+    },
+    "tovuqxona-paneli": {
+      "title": "Tovuqxona paneli",
+      "shortTitle": "Tovuqxona",
+      "description": "Parrandachilik fermalari va tovuqxonalar uchun maxsus sendvich panel yechimlari — tez montaj va issiqlik saqlash.",
+      "thickness": "50–150 mm",
+      "width": "1000 / 1200 mm",
+      "core": "EPS / Bazalt",
+      "use": "Tovuqxona, parrandachilik fermasi"
+    }
+  },
+  "coreComparison": [
+    {
+      "type": "EPS (Penoplast)",
+      "status": "Mavjud",
+      "density": "10–20 kg/m³",
+      "best": "Parrandachilik, ombor, angar, savdo binolari, trikotaj sexlari, QX obyektlari"
+    },
+    {
+      "type": "Bazalt (mineral vata)",
+      "status": "Mavjud",
+      "density": "100–140 kg/m³",
+      "best": "Yong‘in xavfi yuqori sanoat, zavod, kimyo, energetika, logistika va ma’muriy binolar"
+    },
+    {
+      "type": "PIR",
+      "status": "Tez orada",
+      "density": "—",
+      "best": "Sovuq ombor, muzlatkich, farmatsevtika, oziq-ovqat sanoati"
+    },
+    {
+      "type": "PUF",
+      "status": "Tez orada",
+      "density": "—",
+      "best": "Sovuq ombor, muzlatkich, energiya tejamkor binolar"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Sendvich panel narxi qanday hisoblanadi?",
+      "answer": "Narx 1 m² bo‘yicha hisoblanadi va panel qalinligi, metall qalinligi, yadro turi, buyurtma hajmi, RAL rangi hamda yetkazib berish manziliga bog‘liq. Aniq narx individual hisob-kitob orqali beriladi — telefon orqali so‘rang."
+    },
+    {
+      "question": "Minimal buyurtma qancha?",
+      "answer": "Minimal buyurtma cheklanmagan. 30 m² va undan ortiq buyurtmalar standart tartibda qabul qilinadi. Zaruratga qarab undan kichik hajmlar ham individual ishlab chiqarilishi mumkin."
+    },
+    {
+      "question": "Buyurtma necha kunda tayyor bo‘ladi?",
+      "answer": "Standart buyurtmalar 3–7 ish kuni, yirik yoki maxsus buyurtmalar 7–15 ish kuni ichida tayyorlanadi."
+    },
+    {
+      "question": "Yetkazib berish xizmati bormi?",
+      "answer": "Ha. Butun O‘zbekiston, Qirg‘iziston, Tojikiston va Markaziy Osiyoga yetkazib beramiz. 400 m² va undan ortiq buyurtmalar uchun yetkazib berish bepul."
+    },
+    {
+      "question": "Montaj xizmati bormi?",
+      "answer": "Ha. O‘zbekiston bo‘ylab kelishilgan holda professional montaj xizmatlari ko‘rsatiladi."
+    },
+    {
+      "question": "EPS va Bazalt o‘rtasidagi farq nima?",
+      "answer": "EPS (penoplast) — ombor, angar, tovuqxona va umumiy qurilish uchun iqtisodiy va samarali yadro. Bazalt (mineral vata) — yong‘in xavfi yuqori bo‘lgan sanoat, zavod, kimyo va ma’muriy binolar uchun tavsiya etiladi."
+    },
+    {
+      "question": "Kafolat berasizmi?",
+      "answer": "Ha. Har bir mahsulot uchun sifat pasporti beriladi va 10 yilgacha rasmiy kafolat taqdim etiladi."
+    },
+    {
+      "question": "Mutaxassis obyektga chiqadimi?",
+      "answer": "Ha. Mutaxassislarimiz obyektga chiqib bepul o‘lchov va hisob-kitob qiladi. Shuningdek, bepul professional konsultatsiya mavjud."
+    },
+    {
+      "question": "Buyurtma asosida kerakli uzunlikda ishlab chiqarasizmi?",
+      "answer": "Ha. Panel uzunligi buyurtmachi talabiga binoan ishlab chiqariladi. Devor paneli kengligi 1000 yoki 1200 mm, tom paneli — 1000 mm."
+    },
+    {
+      "question": "To‘lov qanday amalga oshiriladi?",
+      "answer": "To‘lov shartlari buyurtma hajmi va shartnoma asosida o‘zaro kelishiladi."
+    }
+  ],
+  "datasheets": {
+    "devor-paneli": {
+      "title": "Devor sendvich paneli",
+      "shortTitle": "Devor",
+      "subtitle": "Yuqori sifatli, energiya tejamkor va ishonchli devor yechimi — angar, ombor, sex va savdo binolari uchun.",
+      "profile": "Tekis / mikro-qovurg‘ali profil · Z-Lock ulanish",
+      "structureNote": "Ikki tomonlama rangli po‘lat (polyester) orasida EPS yoki bazalt yadro. Z-Lock qulf tizimi havo va namlik o‘tkazuvchanligini kamaytiradi.",
+      "specs": [
+        { "label": "Qalinlik (mm)", "value": "50 | 75 | 85 | 100 | 120 | 150 | 200" },
+        { "label": "Effektive eni (mm)", "value": "1000 / 1200" },
+        { "label": "Uzunlik (mm)", "value": "2000 – 13000 (buyurtma asosida)" },
+        { "label": "Yadro turi", "value": "Bazalt tosh yunu / Penoplast (EPS)" },
+        {
+          "label": "Yadro zichligi",
+          "value": "Bazalt: 100 kg/m³ · EPS: 10 / 14 / 16 / 18 / 20 kg/m³"
+        },
+        {
+          "label": "Tashqi / ichki qatlam (mm)",
+          "value": "0.35 / 0.37 / 0.40 / 0.45 / 0.48 / 0.50"
+        },
+        {
+          "label": "Yong‘in chidamliligi",
+          "value": "Bazalt: A1 (yonmaydi) · EPS: B1 (o‘z-o‘zidan o‘chadi)"
+        },
+        {
+          "label": "Issiqlik o‘tkazuvchanlik (W/m·K)",
+          "value": "Bazalt: 0.036–0.042 · EPS: 0.030–0.038"
+        },
+        { "label": "Ulanish", "value": "Z-Lock" }
+      ],
+      "applications": [
+        "Sanoat inshootlari",
+        "Ombor va logistika",
+        "Savdo va do‘konlar",
+        "Ma’muriy binolar",
+        "Qishloq xo‘jaligi binolari"
+      ],
+      "highlights": [
+        "1000 va 1200 mm kenglik variantlari",
+        "Z-Lock — zich va tez montaj",
+        "RAL ranglaridan tanlash"
+      ]
+    },
+    "tom-paneli": {
+      "title": "Tom sendvich paneli",
+      "shortTitle": "Tom",
+      "subtitle": "Yuk va yog‘ingarchilikka chidamli tom paneli — ombor, angar va ishlab chiqarish binolari uchun.",
+      "profile": "Yuqori qovurg‘ali (trapetsiya) tom profili · overlap ulanish",
+      "structureNote": "Tashqi tomonda qovurg‘ali po‘lat qatlam suv oqimini ta’minlaydi. Ichki qatlam tekis; o‘rtada EPS yoki bazalt izolyatsiya.",
+      "specs": [
+        { "label": "Qalinlik (mm)", "value": "50 | 75 | 85 | 100 | 120 | 150 | 200" },
+        { "label": "Effektive eni (mm)", "value": "1000" },
+        { "label": "Uzunlik (mm)", "value": "2000 – 13000 (buyurtma asosida)" },
+        { "label": "Yadro turi", "value": "Bazalt tosh yunu / Penoplast (EPS)" },
+        {
+          "label": "Yadro zichligi",
+          "value": "Bazalt: 100 kg/m³ · EPS: 10 / 14 / 16 / 18 / 20 kg/m³"
+        },
+        {
+          "label": "Tashqi / ichki qatlam (mm)",
+          "value": "0.35 / 0.37 / 0.40 / 0.45 / 0.48 / 0.50"
+        },
+        {
+          "label": "Yong‘in chidamliligi",
+          "value": "Bazalt: A1 (yonmaydi) · EPS: B1 (o‘z-o‘zidan o‘chadi)"
+        },
+        {
+          "label": "Issiqlik o‘tkazuvchanlik (W/m·K)",
+          "value": "Bazalt: 0.036–0.042 · EPS: 0.030–0.038"
+        },
+        { "label": "Ulanish", "value": "Overlap (ustma-ust)" }
+      ],
+      "applications": [
+        "Sanoat inshootlari",
+        "Ombor va logistika",
+        "Savdo markazlari",
+        "Angarlar",
+        "Qishloq xo‘jaligi binolari"
+      ],
+      "highlights": [
+        "Qovurg‘ali tom profili",
+        "Suv oqimi va mexanik mustahkamlik",
+        "Uzunlik buyurtmaga mos — 13 m gacha"
+      ]
+    },
+    "z-lock": {
+      "title": "Z-Lock sendvich panel",
+      "shortTitle": "Z-Lock",
+      "subtitle": "Z-Lock — zich ulanishli sendvich panel tizimi. Tez montaj, yaxshi germetiklik va issiqlik yo‘qotilishini kamaytirish.",
+      "profile": "Z-shaklli qulf ulanish · asosan devor panellari uchun",
+      "structureNote": "Panel chetlaridagi Z-profil qulf bir-biriga mahkamlanadi. Bu klassik flat-lockga nisbatan yaxshiroq zichlik, kamroq sovuq ko‘prik va tezroq o‘rnatish beradi.",
+      "specs": [
+        { "label": "Qalinlik (mm)", "value": "50 | 75 | 85 | 100 | 120 | 150 | 200" },
+        { "label": "Effektive eni (mm)", "value": "1000 / 1200" },
+        { "label": "Uzunlik (mm)", "value": "2000 – 13000 (buyurtma asosida)" },
+        { "label": "Yadro turi", "value": "Bazalt tosh yunu / Penoplast (EPS)" },
+        {
+          "label": "Yadro zichligi",
+          "value": "Bazalt: 100 kg/m³ · EPS: 10 / 14 / 16 / 18 / 20 kg/m³"
+        },
+        {
+          "label": "Tashqi / ichki qatlam (mm)",
+          "value": "0.35 / 0.37 / 0.40 / 0.45 / 0.48 / 0.50"
+        },
+        {
+          "label": "Yong‘in chidamliligi",
+          "value": "Bazalt: A1 · EPS: B1"
+        },
+        {
+          "label": "Issiqlik o‘tkazuvchanlik (W/m·K)",
+          "value": "Bazalt: 0.036–0.042 · EPS: 0.030–0.038"
+        },
+        { "label": "Ishlab chiqarish", "value": "To‘liq avtomatik Z-Lock liniya" }
+      ],
+      "applications": [
+        "Sanoat inshootlari",
+        "Ombor va logistika",
+        "Savdo va do‘konlar",
+        "Sovutgich xonalar",
+        "Qishloq xo‘jaligi binolari"
+      ],
+      "highlights": [
+        "Zich Z-qulf ulanish",
+        "Kamroq sovuq ko‘prik",
+        "Avtomatik liniyada ishlab chiqariladi"
+      ]
+    }
+  }
+}

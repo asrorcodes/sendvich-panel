@@ -1,0 +1,401 @@
+{
+  "meta": {
+    "titleDefault": "Europanel — Sandwich Panel Manufacturing | Fergana",
+    "titleTemplate": "%s | Europanel",
+    "description": "Europanel manufactures sandwich panels in Fergana. EPS and basalt (mineral wool) panels for walls, roofs, cold storage, poultry houses, and warehouses. Delivery across Uzbekistan and Central Asia."
+  },
+  "nav": {
+    "products": "Products",
+    "advantages": "Advantages",
+    "factory": "Factory",
+    "faq": "FAQ"
+  },
+  "hero": {
+    "lead": "EPS and basalt sandwich panels manufactured in Fergana — delivered across Uzbekistan and Central Asia.",
+    "ctaProducts": "View products"
+  },
+  "products": {
+    "eyebrow": "Product line",
+    "title": "Panels matched to your project",
+    "lead": "Wall, roof, and Z-Lock — plus solutions for cold storage, poultry houses, warehouses, and production halls. Each product includes a full technical datasheet.",
+    "thickness": "Thickness",
+    "core": "Core",
+    "details": "Details →"
+  },
+  "advantages": {
+    "eyebrow": "Why Europanel",
+    "title": "Direct from the factory — with added value"
+  },
+  "factory": {
+    "eyebrow": "Manufacturing",
+    "title": "Automatic Z-Lock line — in Fergana",
+    "lead": "EUROPANEL INDUSTRIES MChJ QK — fully automated sandwich panel production. Custom lengths, official warranty up to 10 years.",
+    "points": [
+      {
+        "title": "Production capacity",
+        "text": "60 000 m² per month. 1 fully automatic Z-Lock line (2 more lines being commissioned)."
+      },
+      {
+        "title": "Team",
+        "text": "50 employees. Office on the factory grounds — Fergana, Uchkuprik."
+      },
+      {
+        "title": "Quality control",
+        "text": "Checks at every stage. Finished products undergo final inspection and ship with a quality passport. ISO and GOST."
+      }
+    ]
+  },
+  "comparison": {
+    "eyebrow": "Core types",
+    "title": "EPS, Basalt — PIR and PUF coming soon",
+    "lead": "Choose the insulation for your project. Thickness: 50–200 mm. Metal: 0.40–0.50 mm.",
+    "headers": {
+      "core": "Core",
+      "status": "Status",
+      "density": "Density",
+      "best": "Best for"
+    }
+  },
+  "faq": {
+    "eyebrow": "Questions",
+    "title": "Frequently asked",
+    "lead": "Short, clear answers about sandwich panels."
+  },
+  "cta": {
+    "eyebrow": "Contact",
+    "title": "Get in touch about your project",
+    "lead": "Call or message on WhatsApp — a specialist will advise and, if needed, visit the site.",
+    "whatsapp": "WhatsApp"
+  },
+  "footer": {
+    "products": "Products",
+    "contact": "Contact",
+    "rights": "All rights reserved.",
+    "tagline": "Sandwich panels — Fergana, Uzbekistan"
+  },
+  "productPage": {
+    "eyebrow": "Product",
+    "otherProducts": "Other products",
+    "continue": "Continue"
+  },
+  "datasheet": {
+    "structureEyebrow": "Structure",
+    "structureTitle": "Three-layer construction",
+    "advantagesEyebrow": "Advantages",
+    "advantagesTitle": "Why it works",
+    "ralEyebrow": "Color options",
+    "ralTitle": "RAL",
+    "ralNote": "Other colors available on request.",
+    "specsEyebrow": "Technical specifications",
+    "specsTitle": "panel specification",
+    "appsEyebrow": "Applications",
+    "appsTitle": "Where it is used",
+    "brandBlurb": "EUROPANEL — modern technology and high quality combined",
+    "brandSub": "Your reliable construction partner. Official warranty up to 10 years.",
+    "trust": [
+      "Quality guarantee",
+      "Modern equipment",
+      "Trusted partner",
+      "Fast delivery"
+    ],
+    "features": [
+      "High quality",
+      "Thermal insulation",
+      "Sound insulation",
+      "Eco-friendly",
+      "Easy to install",
+      "Long-lasting"
+    ],
+    "advList": [
+      "Excellent thermal insulation",
+      "Excellent sound insulation",
+      "High fire safety",
+      "Moisture resistant",
+      "Lightweight and strong",
+      "Fast, easy installation"
+    ],
+    "layers": {
+      "outerTitle": "Outer layer",
+      "outerText": "Pre-painted steel (polyester coating)",
+      "coreTitle": "Core (filler)",
+      "coreText": "Basalt or polystyrene — thermal and sound insulation",
+      "innerTitle": "Inner layer",
+      "innerText": "Pre-painted steel (polyester coating)",
+      "coreLabel": "EPS / Basalt core",
+      "zlockCoreLabel": "Z-Lock core"
+    }
+  },
+  "site": {
+    "tagline": "European standard now in Uzbekistan.",
+    "description": "Europanel manufactures sandwich panels in Fergana. EPS and basalt (mineral wool) panels for walls, roofs, cold storage, poultry houses, and warehouses. Delivery across Uzbekistan and Central Asia.",
+    "workHours": "Monday – Saturday, 08:00 – 18:00",
+    "addressFull": "Fergana Region, Uchkuprik District, Oltinvodiy MFY, Fariylar Street, 20",
+    "city": "Uchkuprik",
+    "region": "Fergana Region",
+    "country": "Uzbekistan",
+    "street": "Oltinvodiy MFY, Fariylar Street, 20",
+    "capacity": "60 000 m² per month",
+    "staff": "50 employees",
+    "lines": "1 fully automatic Z-Lock line (2 more lines being commissioned)",
+    "warranty": "Official warranty up to 10 years",
+    "deliveryRegions": [
+      "Uzbekistan",
+      "Kyrgyzstan",
+      "Tajikistan",
+      "Central Asia"
+    ]
+  },
+  "advantageItems": [
+    "Free delivery on orders of 400 m² and above",
+    "Free professional consultation",
+    "Free on-site measurement and calculation by specialists",
+    "High-quality products with a Quality Passport",
+    "Official warranty up to 10 years",
+    "Custom-length production to order",
+    "Modern automated Z-Lock manufacturing",
+    "Professional installation across Uzbekistan"
+  ],
+  "productItems": {
+    "devor-paneli": {
+      "title": "Wall sandwich panel",
+      "shortTitle": "Wall panel",
+      "description": "Flat / micro-ribbed Z-Lock wall panels. Width: 1000 and 1200 mm. EPS or basalt core.",
+      "thickness": "50–200 mm",
+      "width": "1000 / 1200 mm",
+      "core": "EPS / Basalt",
+      "use": "Walls, facades, industrial buildings"
+    },
+    "tom-paneli": {
+      "title": "Roof sandwich panel",
+      "shortTitle": "Roof panel",
+      "description": "High-rib roof panels — for warehouses, hangars, and industrial buildings. Effective width: 1000 mm.",
+      "thickness": "50–200 mm",
+      "width": "1000 mm",
+      "core": "EPS / Basalt",
+      "use": "Roofing, cladding"
+    },
+    "z-lock": {
+      "title": "Z-Lock sandwich panel",
+      "shortTitle": "Z-Lock",
+      "description": "Panel system with Z-Lock joint — tight fit, fewer cold bridges. Produced on an automatic line.",
+      "thickness": "50–200 mm",
+      "width": "1000 / 1200 mm",
+      "core": "EPS / Basalt",
+      "use": "Wall systems, tight joints"
+    },
+    "sovuq-ombor": {
+      "title": "Cold storage panel",
+      "shortTitle": "Cold storage",
+      "description": "Panel solutions for cold stores and freezer rooms. PIR and PUF lines launching soon.",
+      "thickness": "100–200 mm",
+      "width": "Made to order",
+      "core": "EPS / Basalt · PIR / PUF soon",
+      "use": "Cold storage, freezers, food industry"
+    },
+    "tovuqxona-paneli": {
+      "title": "Poultry house panel",
+      "shortTitle": "Poultry house",
+      "description": "Special sandwich panel solutions for poultry farms and houses — fast install and heat retention.",
+      "thickness": "50–150 mm",
+      "width": "1000 / 1200 mm",
+      "core": "EPS / Basalt",
+      "use": "Poultry house, poultry farm"
+    }
+  },
+  "coreComparison": [
+    {
+      "type": "EPS (Penoplast)",
+      "status": "Available",
+      "density": "10–20 kg/m³",
+      "best": "Poultry, warehouses, hangars, retail buildings, knitwear workshops, agri facilities"
+    },
+    {
+      "type": "Basalt (mineral wool)",
+      "status": "Available",
+      "density": "100–140 kg/m³",
+      "best": "High fire-risk industry, plants, chemicals, energy, logistics, and administrative buildings"
+    },
+    {
+      "type": "PIR",
+      "status": "Coming soon",
+      "density": "—",
+      "best": "Cold storage, freezers, pharmaceuticals, food industry"
+    },
+    {
+      "type": "PUF",
+      "status": "Coming soon",
+      "density": "—",
+      "best": "Cold storage, freezers, energy-efficient buildings"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How is sandwich panel pricing calculated?",
+      "answer": "Price is calculated per m² and depends on panel thickness, metal thickness, core type, order volume, RAL color, and delivery address. Exact pricing is provided via an individual quote — ask by phone."
+    },
+    {
+      "question": "What is the minimum order?",
+      "answer": "There is no hard minimum. Orders of 30 m² and above are accepted as standard. Smaller volumes can be produced individually when needed."
+    },
+    {
+      "question": "How long does an order take?",
+      "answer": "Standard orders take 3–7 business days; large or custom orders take 7–15 business days."
+    },
+    {
+      "question": "Do you offer delivery?",
+      "answer": "Yes. We deliver across Uzbekistan, Kyrgyzstan, Tajikistan, and Central Asia. Delivery is free on orders of 400 m² and above."
+    },
+    {
+      "question": "Do you offer installation?",
+      "answer": "Yes. Professional installation is available across Uzbekistan by agreement."
+    },
+    {
+      "question": "What is the difference between EPS and Basalt?",
+      "answer": "EPS (polystyrene) is an economical, effective core for warehouses, hangars, poultry houses, and general construction. Basalt (mineral wool) is recommended for high fire-risk industry, plants, chemicals, and administrative buildings."
+    },
+    {
+      "question": "Do you provide a warranty?",
+      "answer": "Yes. Every product ships with a quality passport and an official warranty of up to 10 years."
+    },
+    {
+      "question": "Will a specialist visit the site?",
+      "answer": "Yes. Our specialists visit the site for free measurement and calculation. Free professional consultation is also available."
+    },
+    {
+      "question": "Can you produce custom lengths to order?",
+      "answer": "Yes. Panel length is made to the customer’s requirements. Wall panel width is 1000 or 1200 mm; roof panel width is 1000 mm."
+    },
+    {
+      "question": "How does payment work?",
+      "answer": "Payment terms are agreed based on order volume and the contract."
+    }
+  ],
+  "datasheets": {
+    "devor-paneli": {
+      "title": "Wall sandwich panel",
+      "shortTitle": "Wall",
+      "subtitle": "A high-quality, energy-efficient, reliable wall solution — for hangars, warehouses, workshops, and retail buildings.",
+      "profile": "Flat / micro-ribbed profile · Z-Lock joint",
+      "structureNote": "EPS or basalt core between double-sided pre-painted steel (polyester). The Z-Lock system reduces air and moisture permeability.",
+      "specs": [
+        { "label": "Thickness (mm)", "value": "50 | 75 | 85 | 100 | 120 | 150 | 200" },
+        { "label": "Effective width (mm)", "value": "1000 / 1200" },
+        { "label": "Length (mm)", "value": "2000 – 13000 (made to order)" },
+        { "label": "Core type", "value": "Basalt stone wool / Polystyrene (EPS)" },
+        {
+          "label": "Core density",
+          "value": "Basalt: 100 kg/m³ · EPS: 10 / 14 / 16 / 18 / 20 kg/m³"
+        },
+        {
+          "label": "Outer / inner sheet (mm)",
+          "value": "0.35 / 0.37 / 0.40 / 0.45 / 0.48 / 0.50"
+        },
+        {
+          "label": "Fire resistance",
+          "value": "Basalt: A1 (non-combustible) · EPS: B1 (self-extinguishing)"
+        },
+        {
+          "label": "Thermal conductivity (W/m·K)",
+          "value": "Basalt: 0.036–0.042 · EPS: 0.030–0.038"
+        },
+        { "label": "Joint", "value": "Z-Lock" }
+      ],
+      "applications": [
+        "Industrial facilities",
+        "Warehouses and logistics",
+        "Retail and shops",
+        "Administrative buildings",
+        "Agricultural buildings"
+      ],
+      "highlights": [
+        "1000 and 1200 mm width options",
+        "Z-Lock — tight, fast installation",
+        "Choose from RAL colors"
+      ]
+    },
+    "tom-paneli": {
+      "title": "Roof sandwich panel",
+      "shortTitle": "Roof",
+      "subtitle": "A roof panel built for load and weather — for warehouses, hangars, and production buildings.",
+      "profile": "High-rib (trapezoidal) roof profile · overlap joint",
+      "structureNote": "The outer ribbed steel sheet manages water runoff. The inner sheet is flat; EPS or basalt insulation sits in between.",
+      "specs": [
+        { "label": "Thickness (mm)", "value": "50 | 75 | 85 | 100 | 120 | 150 | 200" },
+        { "label": "Effective width (mm)", "value": "1000" },
+        { "label": "Length (mm)", "value": "2000 – 13000 (made to order)" },
+        { "label": "Core type", "value": "Basalt stone wool / Polystyrene (EPS)" },
+        {
+          "label": "Core density",
+          "value": "Basalt: 100 kg/m³ · EPS: 10 / 14 / 16 / 18 / 20 kg/m³"
+        },
+        {
+          "label": "Outer / inner sheet (mm)",
+          "value": "0.35 / 0.37 / 0.40 / 0.45 / 0.48 / 0.50"
+        },
+        {
+          "label": "Fire resistance",
+          "value": "Basalt: A1 (non-combustible) · EPS: B1 (self-extinguishing)"
+        },
+        {
+          "label": "Thermal conductivity (W/m·K)",
+          "value": "Basalt: 0.036–0.042 · EPS: 0.030–0.038"
+        },
+        { "label": "Joint", "value": "Overlap" }
+      ],
+      "applications": [
+        "Industrial facilities",
+        "Warehouses and logistics",
+        "Shopping centers",
+        "Hangars",
+        "Agricultural buildings"
+      ],
+      "highlights": [
+        "Ribbed roof profile",
+        "Water runoff and mechanical strength",
+        "Custom length — up to 13 m"
+      ]
+    },
+    "z-lock": {
+      "title": "Z-Lock sandwich panel",
+      "shortTitle": "Z-Lock",
+      "subtitle": "Z-Lock — a sandwich panel system with a tight joint. Fast install, strong sealing, and reduced heat loss.",
+      "profile": "Z-shaped lock joint · primarily for wall panels",
+      "structureNote": "Z-profile locks along the panel edges engage firmly. Versus classic flat-lock, this means tighter fit, fewer cold bridges, and faster installation.",
+      "specs": [
+        { "label": "Thickness (mm)", "value": "50 | 75 | 85 | 100 | 120 | 150 | 200" },
+        { "label": "Effective width (mm)", "value": "1000 / 1200" },
+        { "label": "Length (mm)", "value": "2000 – 13000 (made to order)" },
+        { "label": "Core type", "value": "Basalt stone wool / Polystyrene (EPS)" },
+        {
+          "label": "Core density",
+          "value": "Basalt: 100 kg/m³ · EPS: 10 / 14 / 16 / 18 / 20 kg/m³"
+        },
+        {
+          "label": "Outer / inner sheet (mm)",
+          "value": "0.35 / 0.37 / 0.40 / 0.45 / 0.48 / 0.50"
+        },
+        {
+          "label": "Fire resistance",
+          "value": "Basalt: A1 · EPS: B1"
+        },
+        {
+          "label": "Thermal conductivity (W/m·K)",
+          "value": "Basalt: 0.036–0.042 · EPS: 0.030–0.038"
+        },
+        { "label": "Manufacturing", "value": "Fully automatic Z-Lock line" }
+      ],
+      "applications": [
+        "Industrial facilities",
+        "Warehouses and logistics",
+        "Retail and shops",
+        "Cold rooms",
+        "Agricultural buildings"
+      ],
+      "highlights": [
+        "Tight Z-lock joint",
+        "Fewer cold bridges",
+        "Produced on an automatic line"
+      ]
+    }
+  }
+}

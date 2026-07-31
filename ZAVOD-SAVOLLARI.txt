@@ -1,0 +1,125 @@
+Assalomu alaykum!
+
+Biz zavodingiz uchun sayt (landing page) va SEO tayyorlayapmiz.
+Saytni to‘g‘ri matn, narx/texnika va Google/AI qidiruviga mos qilish uchun quyidagi savollarga javob kerak.
+
+Iltimos, bilganlaringizni yozing.
+Bilmagan / maxfiy joyga: “yo‘q”, “keyinroq” yoki “maxfiy” deb qo‘ying.
+Aniq raqamlar muhim: mm, m², muddat, telefon.
+Fotolarni alohida yuboring (zavod, panel, obyektlar).
+
+Rahmat!
+
+────────────────────────
+1. KOMPANIYA VA BREND
+────────────────────────
+1. Rasmiy kompaniya nomi (MChJ / AJ va hokazo):
+2. Saytda ko‘rinadigan brend / logo nomi:
+3. Zavod qachon ochilgan (yil):
+4. Qisqa slogan (1 jumla):
+5. Boshqa zavod / vositachilardan nima bilan farq qilasiz:
+6. Logo bormi? (SVG/PNG) Asosiy ranglar:
+
+────────────────────────
+2. MANZIL VA ALOQA
+────────────────────────
+7. Zavod manzili (viloyat, tuman, ko‘cha):
+8. Ofis manzili (boshqacha bo‘lsa):
+9. Telefon(lar): sotuv / WhatsApp / Telegram:
+10. Email:
+11. Ish vaqti:
+12. Google Maps linki yoki koordinata:
+13. Yetkazib berish qamrovi (Toshkent / viloyatlar / butun O‘zbekiston):
+
+────────────────────────
+3. MAHSULOTLAR
+(Har bir tur uchun alohida yozing: Devor / Tom / Sovuq ombor / boshqa)
+────────────────────────
+14. Qaysi panel turlari ishlab chiqariladi:
+15. Yadro turlari: PUF / PIR / mineral vata — qaysilari bor:
+16. Qalinlik diapazoni (mm):
+17. Standart kenglik / uzunlik:
+18. Metall qalinligi (mm) va qoplama turi (sink, polyester va hokazo):
+19. Ranglar (RAL kodlari bo‘lsa yaxshi):
+20. Olovbardoshlik sinfi / sertifikatlar:
+21. Issiqlik ko‘rsatkichi (λ yoki R-qiymat, agar bor):
+22. Zichlik (kg/m³):
+23. Har bir tur qayerga tavsiya etiladi (angar, ombor, muzlatkich…):
+
+────────────────────────
+4. NARX VA BUYURTMA
+────────────────────────
+24. Narx qanday hisoblanadi (m², qalinlik, yadro):
+25. Saytda “dan boshlab” narx ko‘rsatish mumkinmi? (ha/yo‘q + raqam):
+26. Minimal buyurtma miqdori:
+27. Tayyorlash muddati (standart / maxsus):
+28. Yetkazib berish narxi qanday hisoblanadi:
+29. Montaj xizmati bormi:
+30. To‘lov shartlari (oldindan %, shartnoma):
+
+────────────────────────
+5. ZAVOD VA SIFAT
+────────────────────────
+31. Kunlik yoki oylik ishlab chiqarish quvvati (m²):
+32. Nechta liniya / taxminan nechta xodim:
+33. Asosiy uskunalar (qisqacha):
+34. ISO / GOST / boshqa sertifikatlar (nomi, raqami):
+35. Sifat nazorati qanday olib boriladi:
+
+────────────────────────
+6. BAJARILGAN LOYIHALAR
+(Iloji bo‘lsa 3–5 ta)
+────────────────────────
+36. Har bir loyiha uchun:
+   - mijoz nomi (yoki “maxfiy”)
+   - shahar
+   - panel turi + qalinlik
+   - maydon (m²)
+   - yil
+   - foto bormi
+37. Qaysi loyihalarni saytda ochiq ko‘rsatish mumkin:
+
+────────────────────────
+7. MIJOZLAR VA SAVOLLAR
+────────────────────────
+38. Asosiy mijozlar kim (quruvchi, pudratchi, oxirgi mijoz):
+39. Eng ko‘p so‘raladigan 5–10 ta savol va qisqa javoblar:
+40. Mijozlar odatda nima deb qidiradi (o‘zbek / rus so‘zlar):
+41. Bozorda asosiy raqobat qanday (nom ixtiyoriy):
+
+────────────────────────
+8. SEO UCHUN QISQA MATNLAR
+────────────────────────
+42. “Sendvich panel nima?” — 4–6 jumla (o‘zingizning tushuntirish):
+43. PUF / PIR / mineral vata — qachon qaysini tavsiya qilasiz:
+44. Qalinlikni tanlash bo‘yicha oddiy qoida:
+45. Sovuq ombor / qishki iqlim uchun alohida tavsiya:
+46. Sayt o‘zbek + rus tilida kerakmi:
+
+────────────────────────
+9. FOTO VA VIDEO
+────────────────────────
+47. Zavod ichi foto / video:
+48. Panel kesimi (yaqindan) foto:
+49. Yuklash / montaj foto:
+50. Rahbar yoki sotuv mas’uli ismi va lavozimi (About uchun):
+
+────────────────────────
+10. HUQUQIY
+────────────────────────
+51. Saytda “№1”, “eng arzon” kabi da’volarni yozish mumkinmi:
+52. Maxfiylik siyosati / foydalanish shartlari kerakmi:
+53. Domen nomi tanlanganmi (masalan: ....uz):
+
+────────────────────────
+BIRINCHI NAVBATDA (agar hammasi kechiksa)
+────────────────────────
+A) Brend nomi + telefon + manzil + Telegram
+B) 3 mahsulot turi + qalinlik + yadro
+C) Muddat + yetkazib berish hududi
+D) 3 ta foto
+E) 5 ta FAQ javobi
+F) 1–2 ta sertifikat nomi
+
+Javoblarni shu xabarga reply qilib yoki Word/PDF qilib yuboring.
+Fotolarni alohida papkada yuboring.
