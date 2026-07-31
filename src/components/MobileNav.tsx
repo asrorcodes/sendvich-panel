@@ -41,7 +41,7 @@ export function MobileNav({ items }: { items: NavItem[] }) {
         aria-expanded={open}
         aria-label={open ? "Close menu" : "Open menu"}
         onClick={() => setOpen((v) => !v)}
-        className="relative z-[80] flex h-10 w-10 items-center justify-center text-white"
+        className="relative z-80 flex h-10 w-10 items-center justify-center text-white"
       >
         <span className="sr-only">Menu</span>
         <span className="flex w-5 flex-col gap-1.5">
@@ -58,7 +58,7 @@ export function MobileNav({ items }: { items: NavItem[] }) {
       </button>
 
       {open && (
-        <div className="fixed inset-0 z-[70] flex flex-col bg-steel px-5 pb-[max(1.5rem,env(safe-area-inset-bottom))] pt-[max(5rem,calc(env(safe-area-inset-top)+4.5rem))] sm:px-6">
+        <div className="fixed inset-0 z-70 flex flex-col bg-steel px-5 pb-[max(1.5rem,env(safe-area-inset-bottom))] pt-[max(5rem,calc(env(safe-area-inset-top)+4.5rem))] sm:px-6">
           <nav className="flex flex-1 flex-col gap-1 overflow-y-auto" aria-label="Mobile">
             {items.map((item) => (
               <Link

@@ -32,13 +32,20 @@ export function Header() {
 
   return (
     <header
-      className={`fixed inset-x-0 top-0 z-50 transition-[background-color,border-color,backdrop-filter] duration-300 ${
-        solid
-          ? "border-b border-white/10 bg-steel/95 backdrop-blur-md"
-          : "border-b border-transparent bg-transparent"
+      className={`fixed inset-x-0 top-0 z-50 transition-[border-color] duration-300 ${
+        solid ? "border-b border-white/10" : "border-b border-transparent"
       }`}
     >
-      <div className="container-site flex h-16 items-center justify-between gap-3 sm:h-[4.25rem]">
+      {/* Backdrop on a sibling layer so backdrop-filter does not trap position:fixed menu */}
+      <div
+        aria-hidden
+        className={`pointer-events-none absolute inset-0 transition-[background-color,backdrop-filter,opacity] duration-300 ${
+          solid
+            ? "bg-steel/95 opacity-100 backdrop-blur-md"
+            : "bg-transparent opacity-0 backdrop-blur-none"
+        }`}
+      />
+      <div className="container-site relative z-10 flex h-16 items-center justify-between gap-3 sm:h-17">
         <Link
           href="/"
           className="min-w-0 shrink font-display text-lg font-bold tracking-[0.08em] text-white sm:text-xl md:text-2xl"
@@ -62,7 +69,7 @@ export function Header() {
           <LanguageSwitcher />
           <a
             href={`tel:${siteConfig.phone}`}
-            className="btn btn-primary !px-4 !py-2 text-sm"
+            className="btn btn-primary px-4! py-2! text-sm"
           >
             {siteConfig.phoneDisplay}
           </a>
