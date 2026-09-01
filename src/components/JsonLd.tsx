@@ -1,5 +1,5 @@
 import { getTranslations, getLocale } from "next-intl/server";
-import { siteConfig } from "@/lib/site";
+import { siteConfig, ogImage } from "@/lib/site";
 import { getProducts } from "@/lib/content";
 
 export async function JsonLd() {
@@ -30,7 +30,7 @@ export async function JsonLd() {
     "@context": "https://schema.org",
     "@type": "LocalBusiness",
     name: siteConfig.name,
-    image: `${siteConfig.url}/og.png`,
+    image: ogImage.url,
     url: `${siteConfig.url}/${locale}`,
     telephone: siteConfig.phone,
     email: siteConfig.email,

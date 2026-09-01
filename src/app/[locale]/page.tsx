@@ -4,7 +4,7 @@ import { hasLocale } from "next-intl";
 import { notFound } from "next/navigation";
 import { routing } from "@/i18n/routing";
 import { ogLocale } from "@/i18n/config";
-import { siteConfig } from "@/lib/site";
+import { siteConfig, ogImage } from "@/lib/site";
 import { Hero } from "@/components/Hero";
 import { Products } from "@/components/Products";
 import { Advantages } from "@/components/Advantages";
@@ -42,13 +42,21 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       siteName: siteConfig.name,
       title: t("titleDefault"),
       description: t("description"),
-      images: [{ url: "/og.png", width: 1200, height: 630, alt: siteConfig.name }],
+      images: [
+        {
+          url: ogImage.url,
+          width: ogImage.width,
+          height: ogImage.height,
+          alt: ogImage.alt,
+          type: ogImage.type,
+        },
+      ],
     },
     twitter: {
       card: "summary_large_image",
       title: t("titleDefault"),
       description: t("description"),
-      images: ["/og.png"],
+      images: [ogImage.url],
     },
   };
 }

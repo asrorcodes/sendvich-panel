@@ -33,4 +33,13 @@ export const siteConfig = {
   ],
 } as const;
 
+export const ogImage = {
+  path: "/og.jpg",
+  url: `${siteConfig.url}/og.jpg`,
+  width: 1200,
+  height: 630,
+  alt: siteConfig.name,
+  type: "image/jpeg",
+} as const;
+
 export type ProductSlug = (typeof siteConfig.productSlugs)[number];
