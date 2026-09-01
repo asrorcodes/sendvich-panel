@@ -44,7 +44,7 @@ export async function PanelDatasheet({ data }: { data: PanelDatasheetData }) {
               </h2>
               <p className="mt-2 text-sm text-ink-muted">{data.profile}</p>
               <div className="mt-5 sm:mt-6">
-                <PanelCrossSection variant={variant} />
+                <PanelCrossSection variant={variant} slug={data.slug} />
               </div>
               <p className="mt-4 text-sm leading-relaxed text-ink-muted">
                 {data.structureNote}

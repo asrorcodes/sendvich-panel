@@ -21,7 +21,10 @@ export function PanelWall({ className = "" }: { className?: string }) {
           className={`animate-panel relative h-full min-w-0 flex-1 flex-col border-r border-black/10 last:border-r-0 ${
             strip.hideOnMobile ? "hidden sm:flex" : "flex"
           }`}
-          style={{ animationDelay: `${i * 0.35}s` }}
+          style={{
+            animationDelay: `${i * 0.45}s`,
+            animationDuration: `${5.2 + (i % 3) * 0.7}s`,
+          }}
         >
           <div className={`metal-face relative overflow-hidden ${strip.metal}`}>
             <span className="animate-sheen absolute inset-y-0 left-0 w-1/3 bg-gradient-to-r from-transparent via-white/35 to-transparent opacity-60" />

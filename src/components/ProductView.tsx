@@ -4,6 +4,7 @@ import { siteConfig } from "@/lib/site";
 import { getDatasheet, getProducts, type Product } from "@/lib/content";
 import { PanelWall } from "@/components/PanelWall";
 import { PanelDatasheet } from "@/components/PanelDatasheet";
+import { PanelCrossSection } from "@/components/PanelCrossSection";
 
 export async function ProductView({ product }: { product: Product }) {
   const t = await getTranslations("productPage");
@@ -40,6 +41,12 @@ export async function ProductView({ product }: { product: Product }) {
       <section className="relative overflow-hidden pt-20 pb-10 text-white sm:pt-28 sm:pb-20">
         <PanelWall className="opacity-90" />
         <div className="container-site relative">
+          <Link
+            href="/#mahsulotlar"
+            className="mb-5 inline-flex items-center text-sm font-medium text-white/70 transition-colors hover:text-white"
+          >
+            {t("back")}
+          </Link>
           <p className="eyebrow text-white/45">{t("eyebrow")}</p>
           <h1 className="mt-3 max-w-3xl font-display text-[1.85rem] font-semibold leading-tight tracking-wide sm:text-5xl md:text-6xl">
             {datasheet?.title ?? product.title}
@@ -63,7 +70,17 @@ export async function ProductView({ product }: { product: Product }) {
         <PanelDatasheet data={datasheet} />
       ) : (
         <section className="section-pad">
-          <div className="container-site">
+          <div className="container-site grid gap-8 lg:grid-cols-[0.95fr_1.05fr] lg:gap-12">
+            <PanelCrossSection
+              variant={
+                product.slug === "tom-paneli"
+                  ? "roof"
+                  : product.slug === "z-lock"
+                    ? "zlock"
+                    : "wall"
+              }
+              slug={product.slug}
+            />
             <dl className="spec-stack">
               <div>
                 <dt className="eyebrow text-ink-muted/55">{tp("thickness")}</dt>

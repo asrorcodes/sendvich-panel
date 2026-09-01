@@ -1,13 +1,63 @@
+import Image from "next/image";
 import { getTranslations } from "next-intl/server";
+import { getProductImages } from "@/lib/product-images";
 
 type Variant = "wall" | "roof" | "zlock";
 
 export async function PanelCrossSection({
   variant = "wall",
+  slug,
 }: {
   variant?: Variant;
+  slug?: string;
 }) {
   const t = await getTranslations("datasheet.layers");
+  const images = slug ? getProductImages(slug) : [];
+
+  if (images.length > 0) {
+    return (
+      <div className="space-y-4">
+        <div
+          className={`grid gap-3 ${images.length > 1 ? "sm:grid-cols-2" : ""}`}
+        >
+          {images.map((image) => (
+            <figure
+              key={image.src}
+              className="overflow-hidden rounded-sm border border-line bg-white shadow-[0_12px_40px_rgba(16,41,97,0.08)]"
+            >
+              <div className="relative aspect-[4/3] bg-white">
+                <Image
+                  src={image.src}
+                  alt={`${image.label} sandwich panel`}
+                  fill
+                  className="object-contain"
+                  sizes="(max-width: 640px) 100vw, 40vw"
+                />
+              </div>
+              <figcaption className="border-t border-line bg-surface px-3 py-2 text-center text-[11px] font-semibold uppercase tracking-[0.14em] text-steel">
+                {image.label}
+              </figcaption>
+            </figure>
+          ))}
+        </div>
+
+        <dl className="space-y-3 border border-line bg-surface px-4 py-4 text-sm sm:px-5">
+          <div>
+            <dt className="font-semibold text-accent">{t("outerTitle")}</dt>
+            <dd className="text-ink-muted">{t("outerText")}</dd>
+          </div>
+          <div>
+            <dt className="font-semibold text-accent">{t("coreTitle")}</dt>
+            <dd className="text-ink-muted">{t("coreText")}</dd>
+          </div>
+          <div>
+            <dt className="font-semibold text-accent">{t("innerTitle")}</dt>
+            <dd className="text-ink-muted">{t("innerText")}</dd>
+          </div>
+        </dl>
+      </div>
+    );
+  }
 
   const topClass =
     variant === "roof"

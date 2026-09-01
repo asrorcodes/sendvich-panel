@@ -76,7 +76,8 @@
   "productPage": {
     "eyebrow": "Product",
     "otherProducts": "Other products",
-    "continue": "Continue"
+    "continue": "Continue",
+    "back": "← Back to products"
   },
   "datasheet": {
     "structureEyebrow": "Structure",

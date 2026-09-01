@@ -76,7 +76,8 @@
   "productPage": {
     "eyebrow": "Mahsulot",
     "otherProducts": "Boshqa mahsulotlar",
-    "continue": "Davomi"
+    "continue": "Davomi",
+    "back": "← Mahsulotlarga qaytish"
   },
   "datasheet": {
     "structureEyebrow": "Tuzilishi",

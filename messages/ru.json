@@ -76,7 +76,8 @@
   "productPage": {
     "eyebrow": "Продукт",
     "otherProducts": "Другая продукция",
-    "continue": "Далее"
+    "continue": "Далее",
+    "back": "← К продукции"
   },
   "datasheet": {
     "structureEyebrow": "Конструкция",
