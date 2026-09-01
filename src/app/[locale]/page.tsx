@@ -42,7 +42,13 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       siteName: siteConfig.name,
       title: t("titleDefault"),
       description: t("description"),
-      images: [{ url: "/og.svg", width: 1200, height: 630, alt: siteConfig.name }],
+      images: [{ url: "/og.png", width: 1200, height: 630, alt: siteConfig.name }],
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: t("titleDefault"),
+      description: t("description"),
+      images: ["/og.png"],
     },
   };
 }

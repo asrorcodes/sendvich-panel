@@ -65,7 +65,20 @@
     "eyebrow": "Aloqa",
     "title": "Loyihangiz bo‘yicha bog‘laning",
     "lead": "Telefon yoki WhatsApp orqali yozing — mutaxassis konsultatsiya beradi, kerak bo‘lsa obyektga chiqadi.",
-    "whatsapp": "WhatsApp"
+    "whatsapp": "WhatsApp",
+    "formEyebrow": "Tez javob",
+    "formTitle": "Narx so‘rash",
+    "formLead": "Ism, telefon va qisqa xabar qoldiring — xabar Telegram’ga keladi, tez orada qo‘ng‘iroq qilamiz."
+  },
+  "contactForm": {
+    "name": "F.I.Sh.",
+    "phone": "Telefon",
+    "phoneCountry": "Davlat kodi",
+    "message": "Xabar",
+    "submit": "Yuborish",
+    "sending": "Yuborilmoqda...",
+    "success": "Rahmat! Xabaringiz qabul qilindi — tez orada bog‘lanamiz.",
+    "error": "Yuborilmadi. Iltimos, qayta urinib ko‘ring yoki telefon orqali yozing."
   },
   "footer": {
     "products": "Mahsulotlar",

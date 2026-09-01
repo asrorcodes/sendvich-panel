@@ -30,7 +30,7 @@ export async function JsonLd() {
     "@context": "https://schema.org",
     "@type": "LocalBusiness",
     name: siteConfig.name,
-    image: `${siteConfig.url}/og.svg`,
+    image: `${siteConfig.url}/og.png`,
     url: `${siteConfig.url}/${locale}`,
     telephone: siteConfig.phone,
     email: siteConfig.email,

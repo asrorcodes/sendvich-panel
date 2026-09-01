@@ -65,7 +65,20 @@
     "eyebrow": "Contact",
     "title": "Get in touch about your project",
     "lead": "Call or message on WhatsApp — a specialist will advise and, if needed, visit the site.",
-    "whatsapp": "WhatsApp"
+    "whatsapp": "WhatsApp",
+    "formEyebrow": "Quick reply",
+    "formTitle": "Request a quote",
+    "formLead": "Leave your name, phone, and a short message — we’ll receive it on Telegram and call you back soon."
+  },
+  "contactForm": {
+    "name": "Full name",
+    "phone": "Phone",
+    "phoneCountry": "Country code",
+    "message": "Message",
+    "submit": "Send",
+    "sending": "Sending...",
+    "success": "Thank you! Your message was received — we’ll contact you shortly.",
+    "error": "Could not send. Please try again or call us directly."
   },
   "footer": {
     "products": "Products",
