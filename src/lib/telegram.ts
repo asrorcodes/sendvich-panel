@@ -48,6 +48,7 @@ export async function sendTelegramMessage(text: string) {
       parse_mode: "HTML",
       disable_web_page_preview: true,
     }),
+    signal: AbortSignal.timeout(10_000),
   });
 
   if (!response.ok) {

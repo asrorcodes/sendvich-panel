@@ -8,7 +8,11 @@
     "products": "Mahsulotlar",
     "advantages": "Afzalliklar",
     "factory": "Zavod",
-    "faq": "FAQ"
+    "faq": "FAQ",
+    "contact": "Aloqa",
+    "openMenu": "Menyuni ochish",
+    "closeMenu": "Menyuni yopish",
+    "language": "Til"
   },
   "hero": {
     "lead": "Farg‘onada ishlab chiqarilgan EPS va bazalt sendvich panellar — butun O‘zbekiston va Markaziy Osiyoga yetkazib berish.",
@@ -20,7 +24,9 @@
     "lead": "Devor, tom va Z-Lock — shuningdek sovuq ombor, tovuqxona, omborxona va ishlab chiqarish sexlari uchun yechimlar. Har birida to‘liq texnik datasheet.",
     "thickness": "Qalinlik",
     "core": "Yadro",
-    "details": "Batafsil →"
+    "details": "Batafsil →",
+    "width": "Kenglik",
+    "use": "Qo‘llanilishi"
   },
   "advantages": {
     "eyebrow": "Nega Europanel",
@@ -78,7 +84,9 @@
     "submit": "Yuborish",
     "sending": "Yuborilmoqda...",
     "success": "Rahmat! Xabaringiz qabul qilindi — tez orada bog‘lanamiz.",
-    "error": "Yuborilmadi. Iltimos, qayta urinib ko‘ring yoki telefon orqali yozing."
+    "error": "Yuborilmadi. Iltimos, qayta urinib ko‘ring yoki telefon orqali yozing.",
+    "missingFields": "Iltimos, ism, telefon va xabarni to‘ldiring.",
+    "invalidPhone": "Telefon raqami to‘liq emas. Iltimos, tekshirib qayta kiriting."
   },
   "footer": {
     "products": "Mahsulotlar",
@@ -205,15 +213,6 @@
       "width": "Buyurtma asosida",
       "core": "EPS / Bazalt · tez orada PIR / PUF",
       "use": "Sovuq ombor, muzlatkich, oziq-ovqat"
-    },
-    "tovuqxona-paneli": {
-      "title": "Tovuqxona paneli",
-      "shortTitle": "Tovuqxona",
-      "description": "Parrandachilik fermalari va tovuqxonalar uchun maxsus sendvich panel yechimlari — tez montaj va issiqlik saqlash.",
-      "thickness": "50–150 mm",
-      "width": "1000 / 1200 mm",
-      "core": "EPS / Bazalt",
-      "use": "Tovuqxona, parrandachilik fermasi"
     }
   },
   "coreComparison": [

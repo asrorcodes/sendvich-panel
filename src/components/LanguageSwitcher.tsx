@@ -1,7 +1,7 @@
 "use client";
 
 import { useEffect, useId, useRef, useState } from "react";
-import { useLocale } from "next-intl";
+import { useLocale, useTranslations } from "next-intl";
 import { usePathname, useRouter } from "@/i18n/navigation";
 import { locales, localeNames, type Locale } from "@/i18n/config";
 
@@ -10,6 +10,7 @@ type Props = {
 };
 
 export function LanguageSwitcher({ compact = false }: Props) {
+  const t = useTranslations("nav");
   const locale = useLocale() as Locale;
   const pathname = usePathname();
   const router = useRouter();
@@ -105,7 +106,7 @@ export function LanguageSwitcher({ compact = false }: Props) {
         <div
           id={listId}
           role="listbox"
-          aria-label="Language"
+          aria-label={t("language")}
           className="absolute right-0 top-[calc(100%+0.35rem)] z-[80] w-[9.5rem] border border-line bg-white py-0.5 shadow-[0_8px_24px_rgba(16,41,97,0.14)]"
         >
           {locales.map((code) => {

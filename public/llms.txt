@@ -2,7 +2,7 @@
 
 > EUROPANEL INDUSTRIES MChJ QK (brend: Europanel) — Farg‘ona viloyati, Uchko‘prik tumanida sendvich panel ishlab chiqaruvchi zavod.
 > Slogan: «Yevropa standarti endi O‘zbekistonda.»
-> Aloqa: +998 95 005 22 21 | europanel.uz@gmail.com
+> Aloqa: +998 77 260 07 37 | europanel.uz@gmail.com
 > Manzil: Oltinvodiy MFY, Fariylar ko‘chasi, 20-uy
 > Ish vaqti: Du–Sha 08:00–18:00
 > Sayt: https://europanel.uz
@@ -11,8 +11,8 @@
 
 - Devor sendvich paneli (1000 / 1200 mm)
 - Tom sendvich paneli (1000 mm)
+- Z-Lock sendvich panel (avtomatik liniya)
 - Sovuq ombor paneli
-- Tovuqxona paneli
 - Omborxona, trikotaj va ishlab chiqarish zavodlari uchun panellar
 
 ## Yadro
@@ -39,9 +39,10 @@ Montaj xizmati O‘zbekiston bo‘ylab.
 
 ## Sahifalar
 
-- https://europanel.uz
-- https://europanel.uz/devor-paneli
-- https://europanel.uz/tom-paneli
-- https://europanel.uz/z-lock
-- https://europanel.uz/sovuq-ombor
-- https://europanel.uz/tovuqxona-paneli
+- https://europanel.uz/uz
+- https://europanel.uz/uz/devor-paneli
+- https://europanel.uz/uz/tom-paneli
+- https://europanel.uz/uz/z-lock
+- https://europanel.uz/uz/sovuq-ombor
+
+Rus va ingliz tilidagi versiyalar: /ru/... va /en/... (masalan https://europanel.uz/ru/devor-paneli).

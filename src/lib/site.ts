@@ -2,10 +2,10 @@ export const siteConfig = {
   name: "Europanel",
   legalName: "EUROPANEL INDUSTRIES MChJ QK",
   url: "https://europanel.uz",
-  phone: "+998950052221",
-  phoneDisplay: "+998 95 005 22 21",
+  phone: "+998772600737",
+  phoneDisplay: "+998 77 260 07 37",
   email: "europanel.uz@gmail.com",
-  whatsapp: "https://wa.me/998950052221",
+  whatsapp: "https://wa.me/998772600737",
   colors: {
     primary: "#102961",
     accent: "#EA5B2B",
@@ -16,7 +16,6 @@ export const siteConfig = {
     "tom-paneli",
     "z-lock",
     "sovuq-ombor",
-    "tovuqxona-paneli",
   ] as const,
   datasheetSlugs: ["devor-paneli", "tom-paneli", "z-lock"] as const,
   ralSwatches: [

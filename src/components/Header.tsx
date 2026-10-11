@@ -19,6 +19,7 @@ export function Header() {
     { href: "/#afzalliklar", label: t("advantages") },
     { href: "/#zavod", label: t("factory") },
     { href: "/#faq", label: t("faq") },
+    { href: "/#aloqa", label: t("contact") },
   ];
 
   useEffect(() => {

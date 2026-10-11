@@ -8,7 +8,11 @@
     "products": "Products",
     "advantages": "Advantages",
     "factory": "Factory",
-    "faq": "FAQ"
+    "faq": "FAQ",
+    "contact": "Contact",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "language": "Language"
   },
   "hero": {
     "lead": "EPS and basalt sandwich panels manufactured in Fergana — delivered across Uzbekistan and Central Asia.",
@@ -20,7 +24,9 @@
     "lead": "Wall, roof, and Z-Lock — plus solutions for cold storage, poultry houses, warehouses, and production halls. Each product includes a full technical datasheet.",
     "thickness": "Thickness",
     "core": "Core",
-    "details": "Details →"
+    "details": "Details →",
+    "width": "Width",
+    "use": "Application"
   },
   "advantages": {
     "eyebrow": "Why Europanel",
@@ -78,7 +84,9 @@
     "submit": "Send",
     "sending": "Sending...",
     "success": "Thank you! Your message was received — we’ll contact you shortly.",
-    "error": "Could not send. Please try again or call us directly."
+    "error": "Could not send. Please try again or call us directly.",
+    "missingFields": "Please fill in your name, phone, and message.",
+    "invalidPhone": "The phone number is incomplete. Please check it and try again."
   },
   "footer": {
     "products": "Products",
@@ -205,15 +213,6 @@
       "width": "Made to order",
       "core": "EPS / Basalt · PIR / PUF soon",
       "use": "Cold storage, freezers, food industry"
-    },
-    "tovuqxona-paneli": {
-      "title": "Poultry house panel",
-      "shortTitle": "Poultry house",
-      "description": "Special sandwich panel solutions for poultry farms and houses — fast install and heat retention.",
-      "thickness": "50–150 mm",
-      "width": "1000 / 1200 mm",
-      "core": "EPS / Basalt",
-      "use": "Poultry house, poultry farm"
     }
   },
   "coreComparison": [

@@ -5,7 +5,20 @@ import { FormEvent, useState } from "react";
 import { PhoneField } from "@/components/PhoneField";
 import { parseInternationalPhone } from "@/lib/phone-countries";
 
-type Status = "idle" | "loading" | "success" | "error";
+type Status =
+  | "idle"
+  | "loading"
+  | "success"
+  | "error"
+  | "missingFields"
+  | "invalidPhone";
+
+const ERROR_STATUSES = ["error", "missingFields", "invalidPhone"] as const;
+type ErrorStatus = (typeof ERROR_STATUSES)[number];
+
+function isErrorStatus(status: Status): status is ErrorStatus {
+  return (ERROR_STATUSES as readonly Status[]).includes(status);
+}
 
 export function ContactForm() {
   const t = useTranslations("contactForm");
@@ -18,11 +31,18 @@ export function ContactForm() {
 
     const form = event.currentTarget;
     const data = new FormData(form);
+    const name = String(data.get("name") ?? "").trim();
+    const message = String(data.get("message") ?? "").trim();
     const phone = String(data.get("phone") ?? "");
-    const parsed = parseInternationalPhone(phone);
 
+    if (!name || !message) {
+      setStatus("missingFields");
+      return;
+    }
+
+    const parsed = parseInternationalPhone(phone);
     if (!parsed) {
-      setStatus("error");
+      setStatus("invalidPhone");
       return;
     }
 
@@ -33,9 +53,9 @@ export function ContactForm() {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
-          name: data.get("name"),
+          name,
           phone: parsed.e164,
-          message: data.get("message"),
+          message,
           locale,
           pageUrl: window.location.href,
           website: data.get("website"),
@@ -96,9 +116,9 @@ export function ContactForm() {
           {t("success")}
         </p>
       )}
-      {status === "error" && (
+      {isErrorStatus(status) && (
         <p className="contact-form__status contact-form__status--error" role="alert">
-          {t("error")}
+          {t(status)}
         </p>
       )}
     </form>

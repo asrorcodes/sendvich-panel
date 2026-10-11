@@ -89,7 +89,7 @@ export async function ProductView({ product }: { product: Product }) {
                 </dd>
               </div>
               <div>
-                <dt className="eyebrow text-ink-muted/55">Width</dt>
+                <dt className="eyebrow text-ink-muted/55">{tp("width")}</dt>
                 <dd className="font-display text-xl font-semibold text-ink">
                   {product.width}
                 </dd>
@@ -101,7 +101,7 @@ export async function ProductView({ product }: { product: Product }) {
                 </dd>
               </div>
               <div>
-                <dt className="eyebrow text-ink-muted/55">Use</dt>
+                <dt className="eyebrow text-ink-muted/55">{tp("use")}</dt>
                 <dd className="font-display text-xl font-semibold text-ink">
                   {product.use}
                 </dd>

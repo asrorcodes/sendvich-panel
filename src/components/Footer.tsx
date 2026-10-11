@@ -5,6 +5,7 @@ import { getProducts } from "@/lib/content";
 
 export async function Footer() {
   const t = await getTranslations("footer");
+  const tn = await getTranslations("nav");
   const ts = await getTranslations("site");
   const products = await getProducts();
 
@@ -42,7 +43,7 @@ export async function Footer() {
                   href="/#faq"
                   className="text-sm text-white/75 transition-colors hover:text-white"
                 >
-                  FAQ
+                  {tn("faq")}
                 </Link>
               </li>
             </ul>

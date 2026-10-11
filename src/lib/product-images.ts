@@ -21,7 +21,6 @@ export const productImages: Partial<Record<ProductSlug, ProductImage[]>> = {
   "tom-paneli": roofImages,
   "z-lock": wallImages,
   "sovuq-ombor": wallImages,
-  "tovuqxona-paneli": wallImages,
 };
 
 export function getProductImages(slug: string): ProductImage[] {

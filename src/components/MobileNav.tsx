@@ -1,7 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
-import { useLocale } from "next-intl";
+import { useLocale, useTranslations } from "next-intl";
 import { Link, usePathname, useRouter } from "@/i18n/navigation";
 import { locales, localeNames, type Locale } from "@/i18n/config";
 import { siteConfig } from "@/lib/site";
@@ -9,6 +9,7 @@ import { siteConfig } from "@/lib/site";
 type NavItem = { href: string; label: string };
 
 export function MobileNav({ items }: { items: NavItem[] }) {
+  const t = useTranslations("nav");
   const [open, setOpen] = useState(false);
   const locale = useLocale() as Locale;
   const pathname = usePathname();
@@ -20,12 +21,6 @@ export function MobileNav({ items }: { items: NavItem[] }) {
       document.body.style.overflow = "";
     };
   }, [open]);
-
-  const languageLabel: Record<Locale, string> = {
-    uz: "Til",
-    ru: "Язык",
-    en: "Language",
-  };
 
   function selectLocale(code: Locale) {
     if (code !== locale) {
@@ -39,11 +34,10 @@ export function MobileNav({ items }: { items: NavItem[] }) {
       <button
         type="button"
         aria-expanded={open}
-        aria-label={open ? "Close menu" : "Open menu"}
+        aria-label={open ? t("closeMenu") : t("openMenu")}
         onClick={() => setOpen((v) => !v)}
         className="relative z-80 flex h-10 w-10 items-center justify-center text-white"
       >
-        <span className="sr-only">Menu</span>
         <span className="flex w-5 flex-col gap-1.5">
           <span
             className={`h-0.5 w-full bg-current transition-transform ${open ? "translate-y-2 rotate-45" : ""}`}
@@ -73,7 +67,7 @@ export function MobileNav({ items }: { items: NavItem[] }) {
 
             <div className="mt-8">
               <p className="mb-3 text-xs font-semibold uppercase tracking-[0.16em] text-white/40">
-                {languageLabel[locale]}
+                {t("language")}
               </p>
               <div className="grid grid-cols-3 gap-2">
                 {locales.map((code) => {
