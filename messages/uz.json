@@ -43,7 +43,7 @@
       },
       {
         "title": "Jamoa",
-        "text": "50 nafar xodim. Ofis zavod hududida — Farg‘ona, Uchko‘prik."
+        "text": "50 nafar xodim. Ofis zavod hududida — Farg‘ona, Qo‘qon EIZ."
       },
       {
         "title": "Sifat nazorati",
@@ -151,11 +151,11 @@
     "tagline": "Yevropa standarti endi O‘zbekistonda.",
     "description": "Europanel — Farg‘onada sendvich panel ishlab chiqarish. EPS va bazalt (mineral vata) panellar: devor, tom, sovuq ombor, tovuqxona va omborxonalar uchun. Butun O‘zbekiston va Markaziy Osiyoga yetkazib berish.",
     "workHours": "Dushanba – Shanba, 08:00 – 18:00",
-    "addressFull": "Farg‘ona viloyati, Uchko‘prik tumani, Oltinvodiy MFY, Fariylar ko‘chasi, 20-uy",
-    "city": "Uchko‘prik",
+    "addressFull": "Farg‘ona viloyati, Qo‘qon Erkin Iqtisodiy Zonasi, Oltinvodiy MFY, Faxriylar ko‘chasi, 20-uy",
+    "city": "Qo‘qon",
     "region": "Farg‘ona viloyati",
     "country": "O‘zbekiston",
-    "street": "Oltinvodiy MFY, Fariylar ko‘chasi, 20-uy",
+    "street": "Oltinvodiy MFY, Faxriylar ko‘chasi, 20-uy",
     "capacity": "Oyiga 60 000 m²",
     "staff": "50 nafar xodim",
     "lines": "1 ta to‘liq avtomatik Z-Lock liniyasi (yana 2 ta liniya ishga tushirilmoqda)",
